@@ -206,7 +206,7 @@
 
 //Max model cooling fan present setting  FOR I3 MEGA,the max value is 1
 
-#define MAX_MODEL_COOLING_PRECENT_VALUE 0.7 // the max present is 70%
+#define MAX_MODEL_COOLING_PRECENT_VALUE 1 // the max present is 70%
 
 
 
